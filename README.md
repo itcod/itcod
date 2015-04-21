@@ -1,10 +1,9 @@
 itcod
 =====
-(c)ITCod 2010-2014 Yura Vdovytchenko
+(c)ITCod 2010-2015 Yura Vdovytchenko
 
-Web Widget Interactive Interface eCMS AIS&T. Component ITCod e-Catalog Management system. Online & Offline dynamic adaptive information system for web & eCatalogs. 
+Web Widget Interactive Interface ITCOD. Component ITCod e-Catalog Management system. Online & Offline dynamic adaptive information system for web, eCatalogs and SOA. 
 
-site: http://itcod.com
+manuals: https://ihome.itcod.com/max/projects/itcod/doc/
 autor: Yura vdovytchenko max@itcod.com
 
-Example: http://rarev.itcod.net/
