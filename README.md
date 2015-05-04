@@ -11,5 +11,6 @@ Component ITCod e-Catalog Management system.
 Online & Offline dynamic adaptive information system for web and eCatalogs. 
 
 manuals (ru): https://ihome.itcod.com/max/projects/itcod/doc/
+
 autor: Yura vdovytchenko max@itcod.com
 
